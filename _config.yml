@@ -18,7 +18,7 @@ email: ituraaron77@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech enthusiast with a passion for programming and cybersecurity. 
   I love creating secure, efficient systems and exploring new ways to protect digital data.
-twitter_username: pmusuva
+twitter_username: aaronprompt
 github_username: 25488
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Aaron Itur"
   avatar : "/assets/images/photo.png"
-  bio    : "I teach, research, and consult."
+  bio    : "Tech enthusiast with a passion for programming and cybersecurity."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
