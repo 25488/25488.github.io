@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dr. Paula Musuva
-email: pmusuva@usiu.ac.ke
+title: Aaron Itur
+email: Ituraaron77@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Assistant Professor of Information Systems | Researcher | Consultant
-twitter_username: pmusuva
-github_username: pmmusuva
+  Tech enthusiast with a passion for programming and cybersecurity. I love creating secure, efficient systems and exploring new ways to protect digital data.
+twitter_username: aaronPrompt
+github_username: @25488
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
@@ -56,34 +56,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Paula Musuva"
-  avatar : "/assets/images/photo.jpg"
-  bio    : "I teach, research, and consult."
+  name   : "Aaron Itur"
+  avatar : "/assets/images/photo.png"
+  bio    : "Tech enthusiast with a passion for programming and cybersecurity. I love creating secure, efficient systems and exploring new ways to protect digital data."
   links:
-    - label: "Google Scholar"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
+      url: "https://25488.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/pmusuva/"
+      url: "https://www.linkedin.com/in/aaron-itur-b16466315/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pmmusuva/"
-    - label: "Cyber Shujaa"
-      icon: "fas fa-shield-alt"
-      url: "https://cybershujaa.co.ke/"
+      url: "https://github.com/25488/"
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://25488.github.io/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/pmusuva/"
+      url: "https://www.linkedin.com/in/aaron-itur-b16466315/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pmmusuva/"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
+      url: "https://github.com/25488/"
 
 defaults:
   # _posts
