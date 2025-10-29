@@ -61,9 +61,9 @@ author:
   avatar : "/assets/images/photo.png"
   bio    : "Tech enthusiast with a passion for programming and cybersecurity."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://25488.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/aaronprompt"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/aaron-itur-b16466315/"
