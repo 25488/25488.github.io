@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AARON ITUR
-email: ituraaron77@gmail.com
+title: MM
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-Tech enthusiast with a passion for programming and cybersecurity. 
-I love creating secure, efficient systems and exploring new ways to protect digital data.
-twitter_username: aaronprompt
-github_username: 25488
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: username
+github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -27,7 +28,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:cyber/:title/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -57,40 +58,40 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aaron Itur"
-  avatar : "/assets/images/photo.png"
-  bio    : "Tech enthusiast with a passion for programming and cybersecurity. I love creating secure, efficient systems and exploring new ways to protect digital data."
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://25488.github.io/"
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/aaronprompt"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/25488"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aaronprompt"
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/25488"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
   - scope:
       path: ""
-      type: Programming
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -108,7 +109,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /cyber/
+  path: /categories/
 tag_archive:
   type: liquid
-  path: /project/
+  path: /tags/
