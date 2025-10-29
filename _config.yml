@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Dr. Paula Musuva"
+  name   : "Aaron Itur"
   avatar : "/assets/images/photo.png"
   bio    : "I teach, research, and consult."
   links:
