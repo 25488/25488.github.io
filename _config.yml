@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 Tech enthusiast with a passion for programming and cybersecurity. 
 I love creating secure, efficient systems and exploring new ways to protect digital data.
 twitter_username: aaronprompt
-github_username: *25488*
+github_username: @25488
 minimal_mistakes_skin: default
 search: true
 
@@ -70,9 +70,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/25488"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
@@ -82,9 +82,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/25488"
-    #- label: "Instagram"
-     # icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
