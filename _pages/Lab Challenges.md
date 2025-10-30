@@ -54,4 +54,4 @@ Design and run a small, consented spear‑phishing simulation for awareness trai
 ```
 
 ## Lab Screenshots
-![My avatar](/assets/images/photo.png)
+![My avatar](/assets/images/1.png)
