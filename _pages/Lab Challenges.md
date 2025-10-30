@@ -51,3 +51,6 @@ Design and run a small, consented spear‑phishing simulation for awareness trai
 <p>We detected an authorization issue with your lab account. Please <a href="https://winformusic.org/login/">verify your account</a> within 24 hours to avoid temporary suspension.</p>
 <p>If you did not request this, contact <em>security@lab.local</em>.</p>
 <p>— IT Support</p>
+
+screenshots/
+/assets/images/photo.png
