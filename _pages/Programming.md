@@ -1,6 +1,6 @@
 ---
 permalink: /programming/
-title: "💻 Programming Portfolio"
+title: "💻 Programming"
 ---
 👋 About Me
 
