@@ -52,5 +52,9 @@ Design and run a small, consented spear‑phishing simulation for awareness trai
 <p>If you did not request this, contact <em>security@lab.local</em>.</p>
 <p>— IT Support</p>
 
+<p> Lab Screenshots <p>
+<img src="/assets/images/photo.png" alt="Landing page">
+```
+
 screenshots/
 /assets/images/photo.png
